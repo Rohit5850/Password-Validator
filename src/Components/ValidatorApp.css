@@ -1,0 +1,22 @@
+.app_heading{
+    padding: 20px 0;
+    background:rgb(201, 201, 201);
+}
+
+.enterData label {
+    margin-right: 8px;
+    font-size: 18px;
+}   
+
+.enterData input {
+    border: 0;
+    outline: none;
+    background: #d7d7d7;
+    padding: 3px;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.enterData {
+    margin-top: 20px;
+}
